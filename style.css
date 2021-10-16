@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    margin-top: 0;
+}
+#container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 800px;
+}
+#rem {
+    display: flex;
+    justify-content: center;
+}
